@@ -15,4 +15,5 @@ body {
   text-align: center;
   color: #fff;
   background: linear-gradient(to right, rgb(151, 150, 240), rgb(251, 199, 212));
+  overflow: hidden;
 }
